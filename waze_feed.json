@@ -22,6 +22,17 @@
       "creationtime": "2026-01-23T16:10:54-03:00",
       "starttime": "2026-01-23T16:10:00-03:00",
       "endtime": "2026-01-24T16:10:00-03:00"
+    },
+    {
+      "id": "1769195479464",
+      "type": "ACCIDENT",
+      "description": "Sinsitro",
+      "street": "Rua Diogo Benitez",
+      "direction": "ONE_DIRECTION",
+      "polyline": "-23.540569 -46.785186",
+      "creationtime": "2026-01-23T16:11:19-03:00",
+      "starttime": "2026-01-23T16:10:00-03:00",
+      "endtime": "2026-01-24T16:10:00-03:00"
     }
   ]
 }
