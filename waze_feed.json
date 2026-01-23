@@ -10,6 +10,17 @@
       "starttime": "2026-01-23T15:37:00-03:00",
       "street": "Avenida Presidente Altino",
       "type": "ACCIDENT"
+    },
+    {
+      "id": "1769193675360",
+      "type": "ACCIDENT",
+      "description": "Teste de Envio",
+      "street": "Rua Cipriano Tavares",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.533358 -46.774140",
+      "creationtime": "2026-01-23T15:41:15-03:00",
+      "starttime": "2026-01-23T15:41:00-03:00",
+      "endtime": "2026-01-23T21:41:00-03:00"
     }
   ]
 }
