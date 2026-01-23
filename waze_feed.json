@@ -33,6 +33,18 @@
       "creationtime": "2026-01-23T16:11:19-03:00",
       "starttime": "2026-01-23T16:10:00-03:00",
       "endtime": "2026-01-24T16:10:00-03:00"
+    },
+    {
+      "id": "1769195498829",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "description": "Obra",
+      "street": "Avenida Pau Brasil",
+      "direction": "ONE_DIRECTION",
+      "polyline": "-23.535405 -46.806011",
+      "creationtime": "2026-01-23T16:11:38-03:00",
+      "starttime": "2026-01-23T16:10:00-03:00",
+      "endtime": "2026-01-24T16:10:00-03:00"
     }
   ]
 }
