@@ -1,15 +1,27 @@
 {
   "incidents": [
     {
-      "id": "1769193915940",
-      "type": "ACCIDENT",
-      "description": "teste de envio",
-      "street": "Avenida Santo Antônio",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.544979 -46.776601",
       "creationtime": "2026-01-23T15:45:15-03:00",
+      "description": "teste de envio",
+      "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-01-23T20:45:00-03:00",
+      "id": "1769193915940",
+      "polyline": "-23.544979 -46.776601",
       "starttime": "2026-01-23T15:45:00-03:00",
-      "endtime": "2026-01-23T20:45:00-03:00"
+      "street": "Avenida Santo Antônio",
+      "type": "ACCIDENT"
+    },
+    {
+      "id": "1769195454582",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_HAZARD",
+      "description": "Avenida Visconde de Nova Granada",
+      "street": "Avenida Visconde de Nova Granada",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.541915 -46.788013 -23.541453 -46.787970 -23.541001 -46.788002 -23.540529 -46.787949 -23.540125 -46.787949",
+      "creationtime": "2026-01-23T16:10:54-03:00",
+      "starttime": "2026-01-23T16:10:00-03:00",
+      "endtime": "2026-01-24T16:10:00-03:00"
     }
   ]
 }
