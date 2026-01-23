@@ -1,0 +1,15 @@
+{
+  "incidents": [
+    {
+      "creationtime": "2026-01-23T15:37:21-03:00",
+      "description": "Teste de Envio",
+      "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-01-23T20:37:00-03:00",
+      "id": "1769193441899",
+      "polyline": "-23.530911 -46.757763",
+      "starttime": "2026-01-23T15:37:00-03:00",
+      "street": "Avenida Presidente Altino",
+      "type": "ACCIDENT"
+    }
+  ]
+}
