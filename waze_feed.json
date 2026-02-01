@@ -1,16 +1,3 @@
 {
-  "incidents": [
-    {
-      "creationtime": "2026-02-01T08:26:42-03:00",
-      "description": "sinsitro",
-      "direction": "BOTH_DIRECTIONS",
-      "endtime": "2026-02-01T12:25:00-03:00",
-      "id": "1769945155701",
-      "polyline": "-23.533905 -46.790600 -23.533861 -46.790536",
-      "starttime": "2026-02-01T08:25:00-03:00",
-      "street": "Avenida das Flores",
-      "subtype": "ACCIDENT_MINOR",
-      "type": "ACCIDENT"
-    }
-  ]
+  "incidents": []
 }
