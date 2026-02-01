@@ -35,6 +35,18 @@
       "creationtime": "2026-02-01T15:02:27-03:00",
       "starttime": "2026-02-01T14:45:00-03:00",
       "endtime": "2026-02-02T18:45:00-03:00"
+    },
+    {
+      "id": "1769969257041",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "description": "Buraco na via",
+      "street": "Avenida das Flores",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.534838 -46.791662 -23.535265 -46.791952",
+      "creationtime": "2026-02-01T15:07:37-03:00",
+      "starttime": "2026-02-01T14:45:00-03:00",
+      "endtime": "2026-02-02T18:45:00-03:00"
     }
   ]
 }
