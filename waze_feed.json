@@ -41,10 +41,10 @@
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_POT_HOLE",
       "description": "Buraco na via",
-      "street": "Rua Açucena",
+      "street": "Rua Orquídea",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.533013 -46.795389 -23.532978 -46.795003",
-      "creationtime": "2026-02-01T15:17:47-03:00",
+      "polyline": "-23.533416 -46.797262 -23.533072 -46.797321",
+      "creationtime": "2026-02-01T15:21:29-03:00",
       "starttime": "2026-02-01T14:45:00-03:00",
       "endtime": "2026-02-02T18:45:00-03:00"
     }
