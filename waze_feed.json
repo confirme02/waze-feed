@@ -11,6 +11,18 @@
       "street": "Rua Dona Primitiva Vianco",
       "subtype": "ACCIDENT_MINOR",
       "type": "ACCIDENT"
+    },
+    {
+      "id": "1769968837125",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "description": "Obra no local",
+      "street": "Rua Antônio Agú",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.534990 -46.780042 -23.534597 -46.779795 -23.534080 -46.779484",
+      "creationtime": "2026-02-01T15:00:37-03:00",
+      "starttime": "2026-02-01T14:45:00-03:00",
+      "endtime": "2026-02-02T18:45:00-03:00"
     }
   ]
 }
