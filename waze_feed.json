@@ -1,18 +1,6 @@
 {
   "incidents": [
     {
-      "creationtime": "2026-02-01T14:58:55-03:00",
-      "description": "Sinistro",
-      "direction": "BOTH_DIRECTIONS",
-      "endtime": "2026-02-01T18:45:00-03:00",
-      "id": "1769967952094",
-      "polyline": "-23.534555 -46.775600 -23.534899 -46.775685",
-      "starttime": "2026-02-01T14:45:00-03:00",
-      "street": "Rua Dona Primitiva Vianco",
-      "subtype": "ACCIDENT_MINOR",
-      "type": "ACCIDENT"
-    },
-    {
       "id": "1769968837125",
       "type": "ROAD_CLOSED",
       "subtype": "ROAD_CLOSED_CONSTRUCTION",
