@@ -41,10 +41,10 @@
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_POT_HOLE",
       "description": "Buraco na via",
-      "street": "Avenida Horácio Láfer",
+      "street": "Rua Açucena",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.531685 -46.796130 -23.532029 -46.796092",
-      "creationtime": "2026-02-01T15:14:20-03:00",
+      "polyline": "-23.533013 -46.795389 -23.532978 -46.795003",
+      "creationtime": "2026-02-01T15:17:47-03:00",
       "starttime": "2026-02-01T14:45:00-03:00",
       "endtime": "2026-02-02T18:45:00-03:00"
     }
