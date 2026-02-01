@@ -23,6 +23,18 @@
       "creationtime": "2026-02-01T15:00:37-03:00",
       "starttime": "2026-02-01T14:45:00-03:00",
       "endtime": "2026-02-02T18:45:00-03:00"
+    },
+    {
+      "id": "1769968947643",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_OIL",
+      "description": "Óleo na via",
+      "street": "Avenida Dionísia Alves Barreto",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.533652 -46.785150 -23.533795 -46.785037 -23.533923 -46.784919",
+      "creationtime": "2026-02-01T15:02:27-03:00",
+      "starttime": "2026-02-01T14:45:00-03:00",
+      "endtime": "2026-02-02T18:45:00-03:00"
     }
   ]
 }
