@@ -1,16 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "1770208796515",
-      "type": "ACCIDENT",
-      "subtype": "ACCIDENT_MINOR",
-      "description": "sinsitro",
-      "street": "Avenida Antônio Carlos Costa",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.547650 -46.783745 -23.547394 -46.783627 -23.547109 -46.783499 -23.546942 -46.783413",
-      "creationtime": "2026-02-04T09:39:56-03:00",
-      "starttime": "2026-02-04T09:39:00-03:00",
-      "endtime": "2026-02-04T12:39:00-03:00"
-    }
-  ]
+  "incidents": []
 }
