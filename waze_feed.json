@@ -1,40 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1769968837125",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "description": "Obra no local",
-      "street": "Rua Antônio Agú",
+      "id": "1770208796515",
+      "type": "ACCIDENT",
+      "subtype": "ACCIDENT_MINOR",
+      "description": "sinsitro",
+      "street": "Avenida Antônio Carlos Costa",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.534990 -46.780042 -23.534597 -46.779795 -23.534080 -46.779484",
-      "creationtime": "2026-02-01T15:00:37-03:00",
-      "starttime": "2026-02-01T14:45:00-03:00",
-      "endtime": "2026-02-02T18:45:00-03:00"
-    },
-    {
-      "id": "1769968947643",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_OIL",
-      "description": "Óleo na via",
-      "street": "Avenida Dionísia Alves Barreto",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.533652 -46.785150 -23.533795 -46.785037 -23.533923 -46.784919",
-      "creationtime": "2026-02-01T15:02:27-03:00",
-      "starttime": "2026-02-01T14:45:00-03:00",
-      "endtime": "2026-02-02T18:45:00-03:00"
-    },
-    {
-      "id": "1769969257041",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
-      "description": "Buraco na via",
-      "street": "Rua Orquídea",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.533416 -46.797262 -23.533072 -46.797321",
-      "creationtime": "2026-02-01T15:21:29-03:00",
-      "starttime": "2026-02-01T14:45:00-03:00",
-      "endtime": "2026-02-02T18:45:00-03:00"
+      "polyline": "-23.547650 -46.783745 -23.547394 -46.783627 -23.547109 -46.783499 -23.546942 -46.783413",
+      "creationtime": "2026-02-04T09:39:56-03:00",
+      "starttime": "2026-02-04T09:39:00-03:00",
+      "endtime": "2026-02-04T12:39:00-03:00"
     }
   ]
 }
