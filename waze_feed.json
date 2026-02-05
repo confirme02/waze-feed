@@ -1,16 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "1770213965585",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_EVENT",
-      "description": "Feira Livre",
-      "street": "Avenida Santo Antônio",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.541806 -46.778145 -23.541723 -46.778247 -23.541624 -46.778402 -23.541433 -46.778493 -23.541364 -46.778563",
-      "creationtime": "2026-02-04T11:06:05-03:00",
-      "starttime": "2026-02-05T06:01:00-03:00",
-      "endtime": "2026-02-05T16:05:00-03:00"
-    }
-  ]
+  "incidents": []
 }
