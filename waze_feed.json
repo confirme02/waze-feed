@@ -1,28 +1,40 @@
 {
   "incidents": [
     {
-      "id": "1770460769036",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "description": "Obra da SABESP",
-      "street": "Rua Justino Alves Batista",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.546475 -46.790735 -23.546569 -46.790756 -23.546652 -46.790831 -23.546746 -46.790912 -23.546854 -46.790976 -23.546952 -46.791094 -23.547124 -46.791228 -23.547242 -46.791368 -23.547424 -46.791550 -23.547562 -46.791700 -23.547778 -46.791925 -23.547887 -46.792027 -23.547911 -46.792065",
       "creationtime": "2026-02-07T07:40:15-03:00",
+      "description": "Obra da SABESP",
+      "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-02-08T19:00:00-03:00",
+      "id": "1770460769036",
+      "polyline": "-23.546475 -46.790735 -23.546569 -46.790756 -23.546652 -46.790831 -23.546746 -46.790912 -23.546854 -46.790976 -23.546952 -46.791094 -23.547124 -46.791228 -23.547242 -46.791368 -23.547424 -46.791550 -23.547562 -46.791700 -23.547778 -46.791925 -23.547887 -46.792027 -23.547911 -46.792065",
       "starttime": "2026-02-08T07:00:00-03:00",
-      "endtime": "2026-02-08T19:00:00-03:00"
+      "street": "Rua Justino Alves Batista",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "type": "ROAD_CLOSED"
     },
     {
+      "creationtime": "2026-02-07T07:46:02-03:00",
+      "description": "Carnaval 2026",
+      "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-02-07T20:00:00-03:00",
       "id": "1770461162845",
+      "polyline": "-23.549313 -46.762668 -23.549391 -46.762561 -23.549470 -46.762427 -23.549568 -46.762319 -23.549608 -46.762234",
+      "starttime": "2026-02-07T07:00:00-03:00",
+      "street": "Rua José Fabiano Rodrigues",
+      "subtype": "ROAD_CLOSED_EVENT",
+      "type": "ROAD_CLOSED"
+    },
+    {
+      "id": "1770472342505",
       "type": "ROAD_CLOSED",
       "subtype": "ROAD_CLOSED_EVENT",
-      "description": "Carnaval 2026",
-      "street": "Rua José Fabiano Rodrigues",
+      "description": "Carnaval 2026 - Bloco do Galo",
+      "street": "Rua Luiz Henrique de Oliveira",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.549313 -46.762668 -23.549391 -46.762561 -23.549470 -46.762427 -23.549568 -46.762319 -23.549608 -46.762234",
-      "creationtime": "2026-02-07T07:46:02-03:00",
-      "starttime": "2026-02-07T07:00:00-03:00",
-      "endtime": "2026-02-07T20:00:00-03:00"
+      "polyline": "-23.536393 -46.815405 -23.536157 -46.815400 -23.535434 -46.815368 -23.534987 -46.815352",
+      "creationtime": "2026-02-07T10:52:22-03:00",
+      "starttime": "2026-02-07T01:00:00-03:00",
+      "endtime": "2026-02-07T22:00:00-03:00"
     }
   ]
 }
