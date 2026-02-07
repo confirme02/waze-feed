@@ -11,6 +11,18 @@
       "creationtime": "2026-02-07T07:40:15-03:00",
       "starttime": "2026-02-08T07:00:00-03:00",
       "endtime": "2026-02-08T19:00:00-03:00"
+    },
+    {
+      "id": "1770461162845",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_EVENT",
+      "description": "Carnaval 2026",
+      "street": "Rua José Fabiano Rodrigues",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.549313 -46.762668 -23.549391 -46.762561 -23.549470 -46.762427 -23.549568 -46.762319 -23.549608 -46.762234",
+      "creationtime": "2026-02-07T07:46:02-03:00",
+      "starttime": "2026-02-07T07:00:00-03:00",
+      "endtime": "2026-02-07T20:00:00-03:00"
     }
   ]
 }
