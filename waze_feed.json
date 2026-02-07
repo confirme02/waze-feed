@@ -1,3 +1,16 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1770459525544",
+      "type": "ACCIDENT",
+      "subtype": "ACCIDENT_MINOR",
+      "description": "sinsitro",
+      "street": "Avenida Manoel Pedro Pimentel",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.535317 -46.762476",
+      "creationtime": "2026-02-07T07:18:45-03:00",
+      "starttime": "2026-02-07T07:18:00-03:00",
+      "endtime": "2026-02-07T08:18:00-03:00"
+    }
+  ]
 }
