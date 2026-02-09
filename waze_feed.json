@@ -1,3 +1,16 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1770650208791",
+      "type": "ACCIDENT",
+      "subtype": "ACCIDENT_MINOR",
+      "description": "sinsitro",
+      "street": "Avenida dos Autonomistas",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.526189 -46.788174 -23.529494 -46.786456 -23.531540 -46.786285",
+      "creationtime": "2026-02-09T12:16:48-03:00",
+      "starttime": "2026-02-09T12:16:00-03:00",
+      "endtime": "2026-02-09T15:16:00-03:00"
+    }
+  ]
 }
