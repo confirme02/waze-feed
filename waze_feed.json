@@ -6,8 +6,8 @@
       "description": "Sinsitro",
       "street": "Avenida dos Autonomistas",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.537206 -46.778951",
-      "creationtime": "2026-02-13T06:58:38-03:00",
+      "polyline": "-23.537206 -46.778951 -23.537239 -46.778754",
+      "creationtime": "2026-02-13T06:59:06-03:00",
       "starttime": "2026-02-13T06:58:00-03:00",
       "endtime": "2026-02-13T08:58:00-03:00"
     }
