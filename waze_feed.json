@@ -1,15 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "1771165677347",
-      "type": "ACCIDENT",
-      "description": "SINISTRO",
-      "street": "Rua Mário Maglio",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.547508 -46.778424 -23.547351 -46.778247",
-      "creationtime": "2026-02-15T11:27:57-03:00",
-      "starttime": "2026-02-15T11:27:00-03:00",
-      "endtime": "2026-02-15T15:27:00-03:00"
-    }
-  ]
+  "incidents": []
 }
