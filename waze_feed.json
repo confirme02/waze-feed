@@ -1,3 +1,15 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1771325135980",
+      "type": "ACCIDENT",
+      "description": "asdsd",
+      "street": "Avenida João Batista",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.528398 -46.779891 -23.528457 -46.779376",
+      "creationtime": "2026-02-17T07:45:35-03:00",
+      "starttime": "2026-02-17T07:45:00-03:00",
+      "endtime": "2026-02-17T10:45:00-03:00"
+    }
+  ]
 }
