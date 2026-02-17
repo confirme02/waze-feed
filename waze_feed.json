@@ -1,16 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "1771324394384",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CAR_STOPPED",
-      "description": "Veiculo na via",
-      "street": "Rua Diogo Benitez",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.537731 -46.783673 -23.537948 -46.783786",
-      "creationtime": "2026-02-17T07:33:14-03:00",
-      "starttime": "2026-02-17T07:28:00-03:00",
-      "endtime": "2026-02-17T10:29:00-03:00"
-    }
-  ]
+  "incidents": []
 }
