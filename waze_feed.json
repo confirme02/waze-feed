@@ -1,15 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "1771324142495",
-      "type": "ACCIDENT",
-      "description": "sinistro",
-      "street": "Avenida Santo Antônio",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.537031 -46.784971 -23.537228 -46.783983",
-      "creationtime": "2026-02-17T07:29:02-03:00",
-      "starttime": "2026-02-17T07:28:00-03:00",
-      "endtime": "2026-02-17T09:29:00-03:00"
-    }
-  ]
+  "incidents": []
 }
