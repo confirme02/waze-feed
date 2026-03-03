@@ -1,16 +1,15 @@
 {
   "incidents": [
     {
-      "id": "1772205986881",
+      "id": "1772556641008",
       "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "description": "Via interditada devido a Obra no local",
-      "street": "Rua Iolanda Trendizi Mossi",
+      "description": "Obra na Via",
+      "street": "Rua Artur Vasconcelos",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.543860 -46.788895 -23.543786 -46.789131 -23.543722 -46.789335 -23.543673 -46.789512 -23.543644 -46.789613",
-      "creationtime": "2026-02-27T12:26:26-03:00",
-      "starttime": "2026-02-27T12:26:00-03:00",
-      "endtime": "2026-02-27T23:59:00-03:00"
+      "polyline": "-23.530606 -46.775478 -23.530591 -46.775226 -23.530591 -46.775108 -23.530596 -46.774909 -23.530601 -46.774840",
+      "creationtime": "2026-03-03T13:50:41-03:00",
+      "starttime": "2026-03-03T13:50:00-03:00",
+      "endtime": "2026-03-03T16:00:00-03:00"
     }
   ]
 }
