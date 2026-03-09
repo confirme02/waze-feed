@@ -1,15 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1772556641008",
+      "id": "1773068552238",
       "type": "ROAD_CLOSED",
-      "description": "Obra na Via",
-      "street": "Rua Artur Vasconcelos",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "description": "Obra da SABESP",
+      "street": "Rua Maria Amabli Blosstolina",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.530606 -46.775478 -23.530591 -46.775226 -23.530591 -46.775108 -23.530596 -46.774909 -23.530601 -46.774840",
-      "creationtime": "2026-03-03T13:50:41-03:00",
-      "starttime": "2026-03-03T13:50:00-03:00",
-      "endtime": "2026-03-03T16:00:00-03:00"
+      "polyline": "-23.562546 -46.783042 -23.562541 -46.782849 -23.562522 -46.782693 -23.562507 -46.782516 -23.562502 -46.782377 -23.562473 -46.782270 -23.562473 -46.782146 -23.562458 -46.782028 -23.562443 -46.781921",
+      "creationtime": "2026-03-09T12:02:32-03:00",
+      "starttime": "2026-03-09T13:00:00-03:00",
+      "endtime": "2026-03-09T23:59:00-03:00"
     }
   ]
 }
