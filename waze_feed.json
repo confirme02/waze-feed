@@ -1,16 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1773068552238",
+      "id": "1773424564099",
       "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "description": "Obra da SABESP",
-      "street": "Rua Maria Amabli Blosstolina",
+      "subtype": "ROAD_CLOSED_HAZARD",
+      "description": "CAMINHAO QUEBRADO - VIA INTERDITADA",
+      "street": "Rua Ferraz de Vasconcelos",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.562546 -46.783042 -23.562541 -46.782849 -23.562522 -46.782693 -23.562507 -46.782516 -23.562502 -46.782377 -23.562473 -46.782270 -23.562473 -46.782146 -23.562458 -46.782028 -23.562443 -46.781921",
-      "creationtime": "2026-03-09T12:02:32-03:00",
-      "starttime": "2026-03-09T13:00:00-03:00",
-      "endtime": "2026-03-09T23:59:00-03:00"
+      "polyline": "-23.500108 -46.771648 -23.499995 -46.771589 -23.499838 -46.771525 -23.499685 -46.771444 -23.499577 -46.771391 -23.499479 -46.771315",
+      "creationtime": "2026-03-13T14:56:04-03:00",
+      "starttime": "2026-03-13T14:55:00-03:00",
+      "endtime": "2026-03-13T23:00:00-03:00"
     }
   ]
 }
