@@ -1,3 +1,16 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1773953493372",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_HAZARD",
+      "description": "teste",
+      "street": "Rua Vitória",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.534595 -46.827539 -23.534541 -46.827287 -23.534482 -46.827030 -23.534433 -46.826820 -23.534349 -46.826520",
+      "creationtime": "2026-03-19T17:51:33-03:00",
+      "starttime": "2026-03-19T17:51:00-03:00",
+      "endtime": "2026-03-19T23:51:00-03:00"
+    }
+  ]
 }
