@@ -1,3 +1,16 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1773924834335",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "description": "FAIXA INTERDITADA",
+      "street": "Rua Aurora Soares Barbosa",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.545679 -46.772034 -23.545242 -46.771932 -23.544922 -46.771884 -23.544524 -46.771911 -23.544219 -46.771959 -23.543855 -46.772039",
+      "creationtime": "2026-03-19T09:53:54-03:00",
+      "starttime": "2026-03-19T09:53:00-03:00",
+      "endtime": "2026-03-19T15:53:00-03:00"
+    }
+  ]
 }
