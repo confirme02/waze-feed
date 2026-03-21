@@ -35,6 +35,18 @@
       "creationtime": "2026-03-21T06:40:14-03:00",
       "starttime": "2026-03-22T00:02:00-03:00",
       "endtime": "2026-03-22T23:00:00-03:00"
+    },
+    {
+      "id": "1774086264299",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "description": "OBRA DA SABESP",
+      "street": "Avenida João Batista",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.528751 -46.781684 -23.528702 -46.781448 -23.528687 -46.781255",
+      "creationtime": "2026-03-21T06:44:24-03:00",
+      "starttime": "2026-03-22T00:02:00-03:00",
+      "endtime": "2026-03-22T23:00:00-03:00"
     }
   ]
 }
