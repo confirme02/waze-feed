@@ -25,13 +25,13 @@
       "type": "HAZARD"
     },
     {
-      "creationtime": "2026-03-21T06:40:14-03:00",
+      "creationtime": "2026-03-21T10:46:13-03:00",
       "description": "OBRA DA SABESP",
       "direction": "BOTH_DIRECTIONS",
-      "endtime": "2026-03-22T23:00:00-03:00",
+      "endtime": "2026-03-22T18:00:00-03:00",
       "id": "1774086014768",
       "polyline": "-23.544789 -46.774068 -23.545075 -46.774100 -23.545399 -46.774132 -23.545704 -46.774293 -23.546038 -46.774443 -23.546235 -46.774626",
-      "starttime": "2026-03-22T00:02:00-03:00",
+      "starttime": "2026-03-22T06:00:00-03:00",
       "street": "Rua Narciso Sturlini",
       "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
       "type": "HAZARD"
