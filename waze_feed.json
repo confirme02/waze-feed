@@ -13,16 +13,16 @@
       "type": "HAZARD"
     },
     {
-      "creationtime": "2026-03-21T06:36:58-03:00",
+      "creationtime": "2026-03-21T10:45:56-03:00",
       "description": "OBRA DA SABESP",
       "direction": "BOTH_DIRECTIONS",
-      "endtime": "2026-03-22T23:00:00-03:00",
+      "endtime": "2026-03-22T16:00:00-03:00",
       "id": "1774085818664",
       "polyline": "-23.526991 -46.778885 -23.526922 -46.779046 -23.526853 -46.779180 -23.526784 -46.779335 -23.526715 -46.779507",
-      "starttime": "2026-03-22T00:02:00-03:00",
+      "starttime": "2026-03-22T08:00:00-03:00",
       "street": "Rua Mário Manin",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "type": "ROAD_CLOSED"
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "type": "HAZARD"
     },
     {
       "creationtime": "2026-03-21T06:40:14-03:00",
