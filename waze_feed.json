@@ -47,6 +47,18 @@
       "creationtime": "2026-03-21T06:44:24-03:00",
       "starttime": "2026-03-22T00:02:00-03:00",
       "endtime": "2026-03-22T23:00:00-03:00"
+    },
+    {
+      "id": "1774086376296",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "description": "OBRA DA SABESP",
+      "street": "Rua Garibaldi",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.520975 -46.789651 -23.520646 -46.789501 -23.520173 -46.789270 -23.519868 -46.789147",
+      "creationtime": "2026-03-21T06:46:16-03:00",
+      "starttime": "2026-03-22T00:02:00-03:00",
+      "endtime": "2026-03-22T23:00:00-03:00"
     }
   ]
 }
