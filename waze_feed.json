@@ -1,64 +1,64 @@
 {
   "incidents": [
     {
+      "creationtime": "2026-03-21T10:45:34-03:00",
+      "description": "OBRA DA SABESP",
+      "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-03-22T16:00:00-03:00",
       "id": "1774085506340",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "description": "OBRA DA SABESP",
-      "street": "Rua Campina Grande",
-      "direction": "BOTH_DIRECTIONS",
       "polyline": "-23.514669 -46.778557 -23.514743 -46.778482 -23.514832 -46.778396 -23.514930 -46.778305 -23.514994 -46.778236 -23.515082 -46.778150 -23.515141 -46.778091",
-      "creationtime": "2026-03-21T06:31:46-03:00",
-      "starttime": "2026-03-22T00:31:00-03:00",
-      "endtime": "2026-03-22T23:00:00-03:00"
+      "starttime": "2026-03-22T08:00:00-03:00",
+      "street": "Rua Campina Grande",
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "type": "HAZARD"
     },
     {
-      "id": "1774085818664",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "description": "OBRA DA SABESP",
-      "street": "Rua Mário Manin",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.526991 -46.778885 -23.526922 -46.779046 -23.526853 -46.779180 -23.526784 -46.779335 -23.526715 -46.779507",
       "creationtime": "2026-03-21T06:36:58-03:00",
+      "description": "OBRA DA SABESP",
+      "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-03-22T23:00:00-03:00",
+      "id": "1774085818664",
+      "polyline": "-23.526991 -46.778885 -23.526922 -46.779046 -23.526853 -46.779180 -23.526784 -46.779335 -23.526715 -46.779507",
       "starttime": "2026-03-22T00:02:00-03:00",
-      "endtime": "2026-03-22T23:00:00-03:00"
+      "street": "Rua Mário Manin",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "type": "ROAD_CLOSED"
     },
     {
-      "id": "1774086014768",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
-      "description": "OBRA DA SABESP",
-      "street": "Rua Narciso Sturlini",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.544789 -46.774068 -23.545075 -46.774100 -23.545399 -46.774132 -23.545704 -46.774293 -23.546038 -46.774443 -23.546235 -46.774626",
       "creationtime": "2026-03-21T06:40:14-03:00",
+      "description": "OBRA DA SABESP",
+      "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-03-22T23:00:00-03:00",
+      "id": "1774086014768",
+      "polyline": "-23.544789 -46.774068 -23.545075 -46.774100 -23.545399 -46.774132 -23.545704 -46.774293 -23.546038 -46.774443 -23.546235 -46.774626",
       "starttime": "2026-03-22T00:02:00-03:00",
-      "endtime": "2026-03-22T23:00:00-03:00"
+      "street": "Rua Narciso Sturlini",
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "type": "HAZARD"
     },
     {
-      "id": "1774086264299",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
-      "description": "OBRA DA SABESP",
-      "street": "Avenida João Batista",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.528751 -46.781684 -23.528702 -46.781448 -23.528687 -46.781255",
       "creationtime": "2026-03-21T06:44:24-03:00",
+      "description": "OBRA DA SABESP",
+      "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-03-22T23:00:00-03:00",
+      "id": "1774086264299",
+      "polyline": "-23.528751 -46.781684 -23.528702 -46.781448 -23.528687 -46.781255",
       "starttime": "2026-03-22T00:02:00-03:00",
-      "endtime": "2026-03-22T23:00:00-03:00"
+      "street": "Avenida João Batista",
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "type": "HAZARD"
     },
     {
-      "id": "1774086376296",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
-      "description": "OBRA DA SABESP",
-      "street": "Rua Garibaldi",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.520975 -46.789651 -23.520646 -46.789501 -23.520173 -46.789270 -23.519868 -46.789147",
       "creationtime": "2026-03-21T06:46:16-03:00",
+      "description": "OBRA DA SABESP",
+      "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-03-22T23:00:00-03:00",
+      "id": "1774086376296",
+      "polyline": "-23.520975 -46.789651 -23.520646 -46.789501 -23.520173 -46.789270 -23.519868 -46.789147",
       "starttime": "2026-03-22T00:02:00-03:00",
-      "endtime": "2026-03-22T23:00:00-03:00"
+      "street": "Rua Garibaldi",
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "type": "HAZARD"
     }
   ]
 }
