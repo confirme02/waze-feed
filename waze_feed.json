@@ -1,3 +1,16 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1774085506340",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "description": "OBRA DA SABESP",
+      "street": "Rua Campina Grande",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.514669 -46.778557 -23.514743 -46.778482 -23.514832 -46.778396 -23.514930 -46.778305 -23.514994 -46.778236 -23.515082 -46.778150 -23.515141 -46.778091",
+      "creationtime": "2026-03-21T06:31:46-03:00",
+      "starttime": "2026-03-22T00:31:00-03:00",
+      "endtime": "2026-03-22T23:00:00-03:00"
+    }
+  ]
 }
