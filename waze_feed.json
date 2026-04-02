@@ -1,3 +1,16 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1775166238275",
+      "type": "ACCIDENT",
+      "subtype": "ACCIDENT_MINOR",
+      "description": "Via Fechada Acidente",
+      "street": "Avenida Roberto Pinto Sobrinho",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.493537 -46.778649 -23.495667 -46.779245 -23.493625 -46.778521 -23.495505 -46.778944",
+      "creationtime": "2026-04-02T18:43:58-03:00",
+      "starttime": "2026-04-02T18:45:00-03:00",
+      "endtime": "2026-04-02T20:45:00-03:00"
+    }
+  ]
 }
