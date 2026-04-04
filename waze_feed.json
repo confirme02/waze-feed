@@ -1,15 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1775205659904",
-      "type": "CONSTRUCTION",
-      "description": "Obras na via",
-      "street": "Avenida Presidente Médici",
+      "id": "1775311124515",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_EVENT",
+      "description": "FEIRA LIVRE",
+      "street": "Rua João Del Papa",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.503135 -46.785692 -23.502766 -46.784915",
-      "creationtime": "2026-04-03T05:40:59-03:00",
-      "starttime": "2026-04-03T05:45:00-03:00",
-      "endtime": "2026-04-03T15:00:00-03:00"
+      "polyline": "-23.512491 -46.789935 -23.512456 -46.788454",
+      "creationtime": "2026-04-04T10:58:44-03:00",
+      "starttime": "2026-04-04T10:56:00-03:00",
+      "endtime": "2026-04-04T12:56:00-03:00"
     }
   ]
 }
