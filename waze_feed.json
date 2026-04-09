@@ -1,15 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "1775692338392",
-      "type": "CONSTRUCTION",
-      "description": "Obras na Via",
-      "street": "Avenida Pedro de Lorena",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.503957 -46.789480 -23.503981 -46.789470 -23.503991 -46.789459",
-      "creationtime": "2026-04-08T20:52:18-03:00",
-      "starttime": "2026-04-08T20:53:00-03:00",
-      "endtime": "2026-04-08T23:59:00-03:00"
-    }
-  ]
+  "incidents": []
 }
