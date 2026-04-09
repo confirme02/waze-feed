@@ -1,3 +1,15 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1775694492418",
+      "type": "ROAD_CLOSED",
+      "description": "Sabesp",
+      "street": "Avenida Pedro de Lorena",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.503961 -46.789480 -23.503981 -46.789464",
+      "creationtime": "2026-04-08T21:28:12-03:00",
+      "starttime": "2026-04-08T21:30:00-03:00",
+      "endtime": "2026-04-08T23:59:00-03:00"
+    }
+  ]
 }
