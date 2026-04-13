@@ -1,15 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "1776058687842",
-      "type": "ROAD_CLOSED",
-      "description": "obras",
-      "street": "Rua Gago Coutinho",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.553978 -46.764005 -23.553890 -46.763952 -23.553791 -46.763898 -23.553693 -46.763834 -23.553585 -46.763780 -23.553467 -46.763716",
-      "creationtime": "2026-04-13T02:38:07-03:00",
-      "starttime": "2026-04-13T02:40:00-03:00",
-      "endtime": "2026-04-13T02:45:00-03:00"
-    }
-  ]
+  "incidents": []
 }
