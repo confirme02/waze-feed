@@ -1,3 +1,16 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1776858349733",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "description": "OBRA DA SABESP",
+      "street": "Avenida Presidente Costa e Silva",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.504020 -46.788433 -23.503867 -46.788529 -23.503700 -46.788631",
+      "creationtime": "2026-04-22T08:45:49-03:00",
+      "starttime": "2026-04-22T08:44:00-03:00",
+      "endtime": "2026-04-30T08:44:00-03:00"
+    }
+  ]
 }
