@@ -11,6 +11,18 @@
       "creationtime": "2026-04-30T10:13:20-03:00",
       "starttime": "2026-04-30T10:12:00-03:00",
       "endtime": "2026-04-30T23:00:00-03:00"
+    },
+    {
+      "id": "1777554821834",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "description": "MANUTENÇÃO DA SABESP",
+      "street": "Rua República da China",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.560889 -46.801351 -23.560978 -46.801770",
+      "creationtime": "2026-04-30T10:13:41-03:00",
+      "starttime": "2026-04-30T10:12:00-03:00",
+      "endtime": "2026-04-30T23:00:00-03:00"
     }
   ]
 }
