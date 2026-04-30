@@ -1,16 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1776858349733",
+      "id": "1777554800873",
       "type": "ROAD_CLOSED",
       "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "description": "OBRA DA SABESP",
-      "street": "Avenida Presidente Costa e Silva",
+      "description": "MANUTENÇÃO DA SABESP",
+      "street": "Rua Ângelo Manzolla",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.504020 -46.788433 -23.503867 -46.788529 -23.503700 -46.788631",
-      "creationtime": "2026-04-22T08:45:49-03:00",
-      "starttime": "2026-04-22T08:44:00-03:00",
-      "endtime": "2026-04-30T08:44:00-03:00"
+      "polyline": "-23.561332 -46.801019 -23.561116 -46.801148 -23.560929 -46.801223 -23.560791 -46.801287 -23.560516 -46.801330 -23.560122 -46.801416",
+      "creationtime": "2026-04-30T10:13:20-03:00",
+      "starttime": "2026-04-30T10:12:00-03:00",
+      "endtime": "2026-04-30T23:00:00-03:00"
     }
   ]
 }
