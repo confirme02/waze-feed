@@ -1,16 +1,15 @@
 {
   "incidents": [
     {
-      "creationtime": "2026-04-30T10:13:41-03:00",
-      "description": "MANUTENÇÃO DA SABESP",
+      "id": "1778637751757",
+      "type": "CONSTRUCTION",
+      "description": "Obras Sabesp",
+      "street": "Avenida José Lourenço",
       "direction": "BOTH_DIRECTIONS",
-      "endtime": "2026-04-30T23:00:00-03:00",
-      "id": "1777554821834",
-      "polyline": "-23.560889 -46.801351 -23.560978 -46.801770",
-      "starttime": "2026-04-30T10:12:00-03:00",
-      "street": "Rua República da China",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "type": "ROAD_CLOSED"
+      "polyline": "-23.557054 -46.784164 -23.557074 -46.784089 -23.557093 -46.783992 -23.557103 -46.783906",
+      "creationtime": "2026-05-12T23:02:31-03:00",
+      "starttime": "2026-05-12T23:10:00-03:00",
+      "endtime": "2026-05-13T12:00:00-03:00"
     }
   ]
 }
