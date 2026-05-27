@@ -10,6 +10,17 @@
       "creationtime": "2026-05-26T22:24:57-03:00",
       "starttime": "2026-05-26T22:28:00-03:00",
       "endtime": "2026-05-26T23:59:00-03:00"
+    },
+    {
+      "id": "1779845139564",
+      "type": "ROAD_CLOSED",
+      "description": "Semáforo Inoperante",
+      "street": "Avenida Graciela Flores de Piteri",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.511802 -46.788132 -23.511807 -46.788170",
+      "creationtime": "2026-05-26T22:25:39-03:00",
+      "starttime": "2026-05-26T22:28:00-03:00",
+      "endtime": "2026-05-26T23:59:00-03:00"
     }
   ]
 }
