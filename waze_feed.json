@@ -1,26 +1,15 @@
 {
   "incidents": [
     {
-      "id": "1779845097499",
+      "id": "1781927904914",
       "type": "ROAD_CLOSED",
-      "description": "Semáforo inoperante.",
-      "street": "Avenida Getúlio Vargas",
+      "description": "Via interditada",
+      "street": "Rua Rui Barbosa",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.511507 -46.788223 -23.511527 -46.788261 -23.511551 -46.788293",
-      "creationtime": "2026-05-26T22:24:57-03:00",
-      "starttime": "2026-05-26T22:28:00-03:00",
-      "endtime": "2026-05-26T23:59:00-03:00"
-    },
-    {
-      "id": "1779845139564",
-      "type": "ROAD_CLOSED",
-      "description": "Semáforo Inoperante",
-      "street": "Avenida Graciela Flores de Piteri",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.511802 -46.788132 -23.511807 -46.788170",
-      "creationtime": "2026-05-26T22:25:39-03:00",
-      "starttime": "2026-05-26T22:28:00-03:00",
-      "endtime": "2026-05-26T23:59:00-03:00"
+      "polyline": "-23.537599 -46.777758 -23.537619 -46.777726",
+      "creationtime": "2026-06-20T00:58:24-03:00",
+      "starttime": "2026-06-20T01:00:00-03:00",
+      "endtime": "2026-06-20T17:00:00-03:00"
     }
   ]
 }
