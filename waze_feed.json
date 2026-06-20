@@ -10,6 +10,17 @@
       "creationtime": "2026-06-20T00:58:24-03:00",
       "starttime": "2026-06-20T01:00:00-03:00",
       "endtime": "2026-06-20T17:00:00-03:00"
+    },
+    {
+      "id": "1781928160291",
+      "type": "ROAD_CLOSED",
+      "description": "Via interditada",
+      "street": "Rua Paulo Licio Rizzo",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.538509 -46.778058 -23.538514 -46.778021",
+      "creationtime": "2026-06-20T01:02:40-03:00",
+      "starttime": "2026-06-20T01:05:00-03:00",
+      "endtime": "2026-06-20T17:00:00-03:00"
     }
   ]
 }
