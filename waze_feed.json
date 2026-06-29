@@ -1,15 +1,16 @@
 {
   "incidents": [
     {
-      "creationtime": "2026-06-20T01:02:40-03:00",
-      "description": "Via interditada",
+      "id": "1782738343075",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_EVENT",
+      "description": "FECHADA POR EVENTO",
+      "street": "Rua Luiz Villar",
       "direction": "BOTH_DIRECTIONS",
-      "endtime": "2026-06-20T17:00:00-03:00",
-      "id": "1781928160291",
-      "polyline": "-23.538509 -46.778058 -23.538514 -46.778021",
-      "starttime": "2026-06-20T01:05:00-03:00",
-      "street": "Rua Paulo Licio Rizzo",
-      "type": "ROAD_CLOSED"
+      "polyline": "-23.551300 -46.786282 -23.551104 -46.786668 -23.550804 -46.787189 -23.550582 -46.787602 -23.550381 -46.787966 -23.550204 -46.788283 -23.550071 -46.788530 -23.550017 -46.788615",
+      "creationtime": "2026-06-29T10:05:43-03:00",
+      "starttime": "2026-06-29T10:00:00-03:00",
+      "endtime": "2026-06-29T20:30:00-03:00"
     }
   ]
 }
