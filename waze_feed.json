@@ -1,15 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1784297249974",
-      "type": "ROAD_CLOSED",
-      "description": "interdição",
-      "street": "Rua Iolanda Trendizi Mossi",
+      "creationtime": "2026-07-17T16:16:14-03:00",
+      "description": "INTERDIÇÃO DEVIDO A OBRA",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.543865 -46.788927 -23.543757 -46.789388 -23.543462 -46.790595 -23.543427 -46.791957",
-      "creationtime": "2026-07-17T11:07:29-03:00",
+      "endtime": "2026-07-17T17:00:00-03:00",
+      "id": "1784297249974",
+      "polyline": "-23.543865 -46.788922 -23.543781 -46.789185 -23.543727 -46.789335",
       "starttime": "2026-07-17T11:07:00-03:00",
-      "endtime": "2026-07-17T17:00:00-03:00"
+      "street": "Rua Iolanda Trendizi Mossi",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION"
     }
   ]
 }
