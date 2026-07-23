@@ -1,16 +1,15 @@
 {
   "incidents": [
     {
-      "id": "1784315962550",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "description": "INTERDIÇÃO DEVIDO A OBRA",
-      "street": "Rua Iolanda Trendizi Mossi",
+      "id": "1784832516070",
+      "type": "ACCIDENT",
+      "description": "via obstruida",
+      "street": "Estrada dos Crisântemos",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.543850 -46.788943 -23.543781 -46.789125 -23.543717 -46.789308",
-      "creationtime": "2026-07-17T16:19:22-03:00",
-      "starttime": "2026-07-17T16:59:00-03:00",
-      "endtime": "2026-07-17T20:00:00-03:00"
+      "polyline": "-23.574352 -46.813132 -23.575906 -46.813068",
+      "creationtime": "2026-07-23T15:48:36-03:00",
+      "starttime": "2026-07-23T15:00:00-03:00",
+      "endtime": "2026-07-23T19:00:00-03:00"
     }
   ]
 }
