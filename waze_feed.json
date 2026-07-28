@@ -1,17 +1,6 @@
 {
   "incidents": [
     {
-      "id": "1785211980073",
-      "type": "CONSTRUCTION",
-      "description": "Obras na via",
-      "street": "Avenida João Ventura dos Santos",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.495056 -46.792902 -23.495031 -46.792870 -23.495779 -46.792542 -23.495764 -46.792489 -23.495745 -46.792473",
-      "creationtime": "2026-07-28T01:13:00-03:00",
-      "starttime": "2026-07-28T01:15:00-03:00",
-      "endtime": "2026-07-28T01:45:00-03:00"
-    },
-    {
       "id": "1785212536844",
       "type": "ROAD_CLOSED",
       "description": "Obras",
