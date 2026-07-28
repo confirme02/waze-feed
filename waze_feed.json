@@ -10,6 +10,17 @@
       "creationtime": "2026-07-28T01:13:00-03:00",
       "starttime": "2026-07-28T01:15:00-03:00",
       "endtime": "2026-07-28T01:45:00-03:00"
+    },
+    {
+      "id": "1785212068281",
+      "type": "ROAD_CLOSED",
+      "description": "avenida joão ventura dos santos 78",
+      "street": "Avenida João Ventura dos Santos",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.495066 -46.792923 -23.495031 -46.792880 -23.495789 -46.792526 -23.495754 -46.792489",
+      "creationtime": "2026-07-28T01:14:28-03:00",
+      "starttime": "2026-07-28T01:15:00-03:00",
+      "endtime": "2026-07-28T01:45:00-03:00"
     }
   ]
 }
