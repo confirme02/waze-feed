@@ -1,16 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1785261354730",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "id": "1785262080832",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_HAZARD",
       "description": "teste",
-      "street": "Rua Nova Piratininga",
-      "direction": "ONE_DIRECTION",
-      "polyline": "-23.520411 -46.798460 -23.520195 -46.798964",
-      "creationtime": "2026-07-28T14:55:54-03:00",
-      "starttime": "2026-07-28T14:54:00-03:00",
-      "endtime": "2026-07-28T14:59:00-03:00"
+      "street": "Rua Doutor Edmundo Campana Buriato",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.568330 -46.807896 -23.568247 -46.808781",
+      "creationtime": "2026-07-28T15:08:00-03:00",
+      "starttime": "2026-07-28T15:07:00-03:00",
+      "endtime": "2026-07-28T15:12:00-03:00"
     }
   ]
 }
