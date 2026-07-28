@@ -1,15 +1,15 @@
 {
   "incidents": [
     {
-      "id": "1784832516070",
-      "type": "ACCIDENT",
-      "description": "via obstruida",
-      "street": "Estrada dos Crisântemos",
+      "id": "1785211980073",
+      "type": "CONSTRUCTION",
+      "description": "Obras na via",
+      "street": "Avenida João Ventura dos Santos",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.574352 -46.813132 -23.575906 -46.813068",
-      "creationtime": "2026-07-23T15:49:44-03:00",
-      "starttime": "2026-07-23T15:00:00-03:00",
-      "endtime": "2026-07-23T19:00:00-03:00"
+      "polyline": "-23.495056 -46.792902 -23.495031 -46.792870 -23.495779 -46.792542 -23.495764 -46.792489 -23.495745 -46.792473",
+      "creationtime": "2026-07-28T01:13:00-03:00",
+      "starttime": "2026-07-28T01:15:00-03:00",
+      "endtime": "2026-07-28T01:45:00-03:00"
     }
   ]
 }
