@@ -1,3 +1,16 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1785261354730",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "description": "teste",
+      "street": "Rua Nova Piratininga",
+      "direction": "ONE_DIRECTION",
+      "polyline": "-23.520411 -46.798460 -23.520195 -46.798964",
+      "creationtime": "2026-07-28T14:55:54-03:00",
+      "starttime": "2026-07-28T14:54:00-03:00",
+      "endtime": "2026-07-28T14:59:00-03:00"
+    }
+  ]
 }
