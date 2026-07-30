@@ -11,30 +11,6 @@
       "creationtime": "2026-07-30T12:45:12-03:00",
       "starttime": "2026-07-30T12:44:00-03:00",
       "endtime": "2026-07-30T13:44:00-03:00"
-    },
-    {
-      "id": "1785426458008",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_EVENT",
-      "description": "teste",
-      "street": "Rua Sebastião Horácio",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.551556 -46.803491 -23.551202 -46.803175",
-      "creationtime": "2026-07-30T12:47:38-03:00",
-      "starttime": "2026-07-30T12:44:00-03:00",
-      "endtime": "2026-07-30T13:44:00-03:00"
-    },
-    {
-      "id": "1785426506112",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_EVENT",
-      "description": "teste",
-      "street": "Rua Sebastião Horácio",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.551546 -46.803502 -23.551192 -46.803180",
-      "creationtime": "2026-07-30T12:48:26-03:00",
-      "starttime": "2026-07-30T12:44:00-03:00",
-      "endtime": "2026-07-30T13:44:00-03:00"
     }
   ]
 }
