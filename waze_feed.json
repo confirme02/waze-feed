@@ -1,3 +1,16 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1785426312654",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_EVENT",
+      "description": "teste de sistema",
+      "street": "Rua Sebastião Horácio",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.551497 -46.803454 -23.551566 -46.803491 -23.551187 -46.803175",
+      "creationtime": "2026-07-30T12:45:12-03:00",
+      "starttime": "2026-07-30T12:44:00-03:00",
+      "endtime": "2026-07-30T13:44:00-03:00"
+    }
+  ]
 }
