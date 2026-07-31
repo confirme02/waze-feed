@@ -1,15 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1785427405499",
-      "type": "ACCIDENT",
-      "description": "rua francisco lemeu",
-      "street": "Rua Francisco Lameu",
+      "id": "1785500437816",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "description": "PODA DE ARVORE",
+      "street": "Rua Doutor Mário Pinto Serva",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.534184 -46.786149 -23.534725 -46.785602",
-      "creationtime": "2026-07-30T13:03:25-03:00",
-      "starttime": "2026-07-30T13:05:00-03:00",
-      "endtime": "2026-07-30T13:08:00-03:00"
+      "polyline": "-23.530556 -46.783305 -23.530650 -46.783396 -23.530714 -46.783503 -23.530822 -46.783584 -23.530847 -46.783643",
+      "creationtime": "2026-07-31T09:20:37-03:00",
+      "starttime": "2026-07-31T09:00:00-03:00",
+      "endtime": "2026-07-31T11:30:00-03:00"
     }
   ]
 }
