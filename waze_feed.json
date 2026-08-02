@@ -1,16 +1,15 @@
 {
   "incidents": [
     {
-      "id": "1785500437816",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "description": "PODA DE ARVORE",
-      "street": "Rua Doutor Mário Pinto Serva",
+      "id": "1785665608300",
+      "type": "MISC",
+      "description": "Comemoração dos 9 anos da Igreja Evangélica Ministério Alfa",
+      "street": "Avenida Capistrano de Abreu",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.530556 -46.783305 -23.530650 -46.783396 -23.530714 -46.783503 -23.530822 -46.783584 -23.530847 -46.783643",
-      "creationtime": "2026-07-31T09:20:37-03:00",
-      "starttime": "2026-07-31T09:00:00-03:00",
-      "endtime": "2026-07-31T11:30:00-03:00"
+      "polyline": "-23.557605 -46.791898 -23.557103 -46.791266",
+      "creationtime": "2026-08-02T07:13:28-03:00",
+      "starttime": "2026-08-02T07:13:00-03:00",
+      "endtime": "2026-08-02T19:13:00-03:00"
     }
   ]
 }
