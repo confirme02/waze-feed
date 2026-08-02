@@ -1,3 +1,15 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1785665877134",
+      "type": "ROAD_CLOSED",
+      "description": "Comemoração dos 9 anos da Igreja Evangélica Ministério Alfa",
+      "street": "Rua Primo Frezza",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.557600 -46.791899 -23.557098 -46.791266",
+      "creationtime": "2026-08-02T07:17:57-03:00",
+      "starttime": "2026-08-02T07:17:00-03:00",
+      "endtime": "2026-08-02T19:17:00-03:00"
+    }
+  ]
 }
