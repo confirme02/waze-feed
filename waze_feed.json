@@ -1,15 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1785665877134",
+      "id": "1785788406120",
       "type": "ROAD_CLOSED",
-      "description": "Comemoração dos 9 anos da Igreja Evangélica Ministério Alfa",
-      "street": "Rua Primo Frezza",
+      "subtype": "ROAD_CLOSED_EVENT",
+      "description": "interdição",
+      "street": "Rua Flor de Amoras",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.557600 -46.791899 -23.557098 -46.791266",
-      "creationtime": "2026-08-02T07:17:57-03:00",
-      "starttime": "2026-08-02T07:17:00-03:00",
-      "endtime": "2026-08-02T19:17:00-03:00"
+      "polyline": "-23.534630 -46.798576 -23.534222 -46.798641",
+      "creationtime": "2026-08-03T17:20:06-03:00",
+      "starttime": "2026-08-03T17:21:00-03:00",
+      "endtime": "2026-08-03T19:00:00-03:00"
     }
   ]
 }
