@@ -1,16 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1785937847424",
+      "id": "1785938282698",
       "type": "ROAD_CLOSED",
       "subtype": "ROAD_CLOSED_EVENT",
-      "description": "teste de sistema",
+      "description": "pintura",
       "street": "Rua Sebastião Horácio",
-      "direction": "ONE_DIRECTION",
-      "polyline": "-23.551625 -46.803555 -23.551758 -46.803684",
-      "creationtime": "2026-08-05T10:50:47-03:00",
-      "starttime": "2026-08-05T10:50:00-03:00",
-      "endtime": "2026-08-05T10:53:00-03:00"
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.551620 -46.803555 -23.551728 -46.803647",
+      "creationtime": "2026-08-05T10:58:02-03:00",
+      "starttime": "2026-08-05T10:57:00-03:00",
+      "endtime": "2026-08-05T11:00:00-03:00"
     }
   ]
 }
