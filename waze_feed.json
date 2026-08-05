@@ -1,16 +1,15 @@
 {
   "incidents": [
     {
-      "id": "1785939461609",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "id": "1785952723970",
+      "type": "CONSTRUCTION",
       "description": "teste",
-      "street": "Viela Libra",
+      "street": "Rua José Henrique",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.550450 -46.804414 -23.550725 -46.804623",
-      "creationtime": "2026-08-05T11:17:41-03:00",
-      "starttime": "2026-08-05T11:00:00-03:00",
-      "endtime": "2026-08-05T11:30:00-03:00"
+      "polyline": "-23.551295 -46.802895 -23.551290 -46.802890 -23.551295 -46.802847 -23.551260 -46.802831 -23.551211 -46.802799 -23.551177 -46.802761",
+      "creationtime": "2026-08-05T14:58:43-03:00",
+      "starttime": "2026-08-05T14:58:00-03:00",
+      "endtime": "2026-08-05T15:11:00-03:00"
     }
   ]
 }
