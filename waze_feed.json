@@ -1,15 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1786029281903",
-      "type": "CONSTRUCTION",
-      "description": "Obras",
-      "street": "Rua João Colino",
+      "id": "1786354134488",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "description": "hbfggfjh",
+      "street": "Rua Clarice Lispector",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.533621 -46.777072 -23.534073 -46.775602",
-      "creationtime": "2026-08-06T12:14:41-03:00",
-      "starttime": "2026-08-06T12:14:00-03:00",
-      "endtime": "2026-08-06T18:00:00-03:00"
+      "polyline": "-23.582082 -46.816349 -23.578001 -46.815705",
+      "creationtime": "2026-08-10T06:28:54-03:00",
+      "starttime": "2026-08-10T06:28:00-03:00",
+      "endtime": "2026-08-10T06:30:00-03:00"
     }
   ]
 }
