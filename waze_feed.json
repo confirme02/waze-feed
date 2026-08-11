@@ -1,3 +1,15 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "1786479960927",
+      "type": "ROAD_CLOSED",
+      "description": "carreta quebrada",
+      "street": "Rua Vítor Pereira",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.561106 -46.799023 -23.561219 -46.799779",
+      "creationtime": "2026-08-11T17:26:00-03:00",
+      "starttime": "2026-08-11T17:25:00-03:00",
+      "endtime": "2026-08-11T21:30:00-03:00"
+    }
+  ]
 }
