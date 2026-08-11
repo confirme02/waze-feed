@@ -1,15 +1,15 @@
 {
   "incidents": [
     {
-      "id": "1786451849328",
-      "type": "CONSTRUCTION",
+      "creationtime": "2026-08-11T09:42:22-03:00",
       "description": "obra sabesp",
-      "street": "Rua João Crudo",
       "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-08-11T11:37:00-03:00",
+      "id": "1786451849328",
       "polyline": "-23.532607 -46.778960",
-      "creationtime": "2026-08-11T09:37:29-03:00",
       "starttime": "2026-08-11T09:37:00-03:00",
-      "endtime": "2026-08-11T11:37:00-03:00"
+      "street": "Rua João Crudo",
+      "type": "CONSTRUCTION"
     }
   ]
 }
