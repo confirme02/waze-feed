@@ -2,13 +2,13 @@
   "incidents": [
     {
       "id": "1788102961839",
-      "type": "ACCIDENT",
-      "subtype": "ACCIDENT_MAJOR",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_HAZARD",
       "description": "INTERDITADO DEVIDO A ACIDENTE",
       "street": "Avenida Victor Civita",
       "direction": "BOTH_DIRECTIONS",
       "polyline": "-23.583349 -46.802477 -23.583467 -46.802643 -23.583649 -46.802906 -23.583777 -46.803185 -23.583841 -46.803426",
-      "creationtime": "2026-08-30T12:16:01-03:00",
+      "creationtime": "2026-08-30T12:20:07-03:00",
       "starttime": "2026-08-30T12:15:00-03:00",
       "endtime": "2026-08-30T19:00:00-03:00"
     }
