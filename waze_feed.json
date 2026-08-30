@@ -1,15 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1787482325491",
+      "id": "1788102961839",
       "type": "ACCIDENT",
-      "description": "Evento - Interdição",
-      "street": "Avenida Franz Voegeli",
-      "direction": "ONE_DIRECTION",
-      "polyline": "-23.537955 -46.763027 -23.540158 -46.762298",
-      "creationtime": "2026-08-23T07:52:05-03:00",
-      "starttime": "2026-08-23T07:51:00-03:00",
-      "endtime": "2026-08-23T13:00:00-03:00"
+      "subtype": "ACCIDENT_MAJOR",
+      "description": "INTERDITADO DEVIDO A ACIDENTE",
+      "street": "Avenida Victor Civita",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.583349 -46.802477 -23.583467 -46.802643 -23.583649 -46.802906 -23.583777 -46.803185 -23.583841 -46.803426",
+      "creationtime": "2026-08-30T12:16:01-03:00",
+      "starttime": "2026-08-30T12:15:00-03:00",
+      "endtime": "2026-08-30T19:00:00-03:00"
     }
   ]
 }
