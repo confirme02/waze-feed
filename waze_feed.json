@@ -1,16 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1788286186055",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
-      "description": "FAIXA DA DIREITA INTERDITADA",
-      "street": "Avenida dos Autonomistas",
-      "direction": "ONE_DIRECTION",
-      "polyline": "-23.542222 -46.766042 -23.541996 -46.766337 -23.541809 -46.766659 -23.541524 -46.767035 -23.541204 -46.767474 -23.540860 -46.767898 -23.540747 -46.768059",
-      "creationtime": "2026-09-01T15:09:46-03:00",
-      "starttime": "2026-09-01T15:09:00-03:00",
-      "endtime": "2026-09-01T17:00:00-03:00"
+      "id": "1788963918007",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_HAZARD",
+      "description": "INTERDITADO DEVIDO A CAMINHÃO QUEBRADO",
+      "street": "Rua João Furlan",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.494879 -46.762024 -23.495120 -46.762094 -23.495395 -46.762212 -23.495651 -46.762308 -23.495823 -46.762416 -23.495951 -46.762544",
+      "creationtime": "2026-09-09T11:25:18-03:00",
+      "starttime": "2026-09-09T11:25:00-03:00",
+      "endtime": "2026-09-09T16:25:00-03:00"
     }
   ]
 }
