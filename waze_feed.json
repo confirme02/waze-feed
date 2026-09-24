@@ -1,15 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1790022228387",
+      "id": "1790253372696",
       "type": "ROAD_CLOSED",
-      "description": "INTERDITADO DEVIDO A SINISTRO DE TRANSITO",
-      "street": "Rua Águas da Prata",
-      "direction": "ONE_DIRECTION",
-      "polyline": "-23.513066 -46.776557 -23.512820 -46.776170 -23.512613 -46.775870",
-      "creationtime": "2026-09-21T17:23:48-03:00",
-      "starttime": "2026-09-21T17:23:00-03:00",
-      "endtime": "2026-09-21T21:23:00-03:00"
+      "subtype": "ROAD_CLOSED_EVENT",
+      "description": "INTERDIÇÃO",
+      "street": "Rua Lourenço Belloli",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.502471 -46.783723 -23.499067 -46.784034",
+      "creationtime": "2026-09-24T09:36:12-03:00",
+      "starttime": "2026-09-24T09:35:00-03:00",
+      "endtime": "2026-09-24T11:37:00-03:00"
     }
   ]
 }
