@@ -1,16 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "1791023148400",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
-      "description": "DUAS FAIXAS FECHADA DEVIDO A SINISTRO",
-      "street": "Rua Aurora Soares Barbosa",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.547322 -46.773590 -23.547224 -46.773219 -23.547047 -46.772806 -23.546806 -46.772533 -23.546604 -46.772356 -23.546206 -46.772195 -23.545812 -46.772072 -23.545247 -46.771927 -23.544819 -46.771879",
-      "creationtime": "2026-10-03T07:25:48-03:00",
-      "starttime": "2026-10-03T07:25:00-03:00",
-      "endtime": "2026-10-03T16:25:00-03:00"
-    }
-  ]
+  "incidents": []
 }
