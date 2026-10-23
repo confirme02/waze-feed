@@ -1,16 +1,16 @@
 {
   "incidents": [
     {
-      "id": "1792327530632",
+      "id": "1792768299632",
       "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_EVENT",
-      "description": "atividade / treinamento",
-      "street": "Avenida João Batista",
+      "subtype": "ROAD_CLOSED_HAZARD",
+      "description": "FECHADA POR EVENTO",
+      "street": "Praça Hiraku Yamato",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.528687 -46.781226 -23.529160 -46.784559",
-      "creationtime": "2026-10-18T09:45:30-03:00",
-      "starttime": "2026-10-18T07:00:00-03:00",
-      "endtime": "2026-10-18T12:00:00-03:00"
+      "polyline": "-23.516120 -46.775591 -23.516169 -46.775387 -23.516199 -46.775269",
+      "creationtime": "2026-10-23T12:11:39-03:00",
+      "starttime": "2026-10-23T12:11:00-03:00",
+      "endtime": "2026-10-23T18:00:00-03:00"
     }
   ]
 }
