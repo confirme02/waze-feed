@@ -1,16 +1,15 @@
 {
   "incidents": [
     {
-      "id": "1793300185581",
+      "id": "1793476545212",
       "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "description": "ROMPIMENTO DE ADUTORA - SABESP",
-      "street": "Rua Dorival Seabra",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.496345 -46.790042 -23.496281 -46.789822 -23.496168 -46.789553 -23.496055 -46.789216 -23.495937 -46.788899 -23.495843 -46.788620 -23.495735 -46.788293 -23.495627 -46.788025 -23.495572 -46.787891",
-      "creationtime": "2026-10-29T15:56:25-03:00",
-      "starttime": "2026-10-29T15:56:00-03:00",
-      "endtime": "2026-10-29T23:59:00-03:00"
+      "description": "OBRA DA SABESP",
+      "street": "Rua Paranapanema",
+      "direction": "ONE_DIRECTION",
+      "polyline": "-23.502386 -46.804092 -23.502381 -46.804381 -23.502381 -46.804601",
+      "creationtime": "2026-10-31T16:55:45-03:00",
+      "starttime": "2026-10-31T16:55:00-03:00",
+      "endtime": "2026-11-01T23:59:00-03:00"
     }
   ]
 }
