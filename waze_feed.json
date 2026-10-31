@@ -10,6 +10,17 @@
       "creationtime": "2026-10-31T16:55:45-03:00",
       "starttime": "2026-10-31T16:55:00-03:00",
       "endtime": "2026-11-01T23:59:00-03:00"
+    },
+    {
+      "id": "1793476663453",
+      "type": "ROAD_CLOSED",
+      "description": "OBRA DA SABESP",
+      "street": "Avenida Eurico da Cruz",
+      "direction": "ONE_DIRECTION",
+      "polyline": "-23.502337 -46.804676 -23.502209 -46.804682",
+      "creationtime": "2026-10-31T16:57:43-03:00",
+      "starttime": "2026-10-31T16:55:00-03:00",
+      "endtime": "2026-11-01T23:59:00-03:00"
     }
   ]
 }
