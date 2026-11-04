@@ -1,17 +1,6 @@
 {
   "incidents": [
     {
-      "creationtime": "2026-11-04T12:12:36-03:00",
-      "description": "Obras na via",
-      "direction": "ONE_DIRECTION",
-      "endtime": "2026-11-05T00:00:00-03:00",
-      "id": "1793805156123",
-      "polyline": "-23.517145 -46.761975 -23.516476 -46.759325",
-      "starttime": "2026-11-04T12:10:00-03:00",
-      "street": "Rua Bem-Te-Vi",
-      "type": "CONSTRUCTION"
-    },
-    {
       "creationtime": "2026-11-04T12:17:48-03:00",
       "description": "Interdição - Obras ",
       "direction": "ONE_DIRECTION",
