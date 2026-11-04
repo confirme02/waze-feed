@@ -1,26 +1,15 @@
 {
   "incidents": [
     {
-      "id": "1793476545212",
-      "type": "ROAD_CLOSED",
-      "description": "OBRA DA SABESP",
-      "street": "Rua Paranapanema",
+      "id": "1793805128932",
+      "type": "CONSTRUCTION",
+      "description": "Obras",
+      "street": "Rua Bem-Te-Vi",
       "direction": "ONE_DIRECTION",
-      "polyline": "-23.502386 -46.804092 -23.502381 -46.804381 -23.502381 -46.804601",
-      "creationtime": "2026-10-31T16:55:45-03:00",
-      "starttime": "2026-10-31T16:55:00-03:00",
-      "endtime": "2026-11-01T23:59:00-03:00"
-    },
-    {
-      "id": "1793476663453",
-      "type": "ROAD_CLOSED",
-      "description": "OBRA DA SABESP",
-      "street": "Avenida Eurico da Cruz",
-      "direction": "ONE_DIRECTION",
-      "polyline": "-23.502337 -46.804676 -23.502209 -46.804682",
-      "creationtime": "2026-10-31T16:57:43-03:00",
-      "starttime": "2026-10-31T16:55:00-03:00",
-      "endtime": "2026-11-01T23:59:00-03:00"
+      "polyline": "-23.517155 -46.762018 -23.516496 -46.759357",
+      "creationtime": "2026-11-04T12:12:08-03:00",
+      "starttime": "2026-11-04T12:10:00-03:00",
+      "endtime": "2026-11-05T00:00:00-03:00"
     }
   ]
 }
