@@ -1,25 +1,37 @@
 {
   "incidents": [
     {
-      "id": "1793805128932",
-      "type": "CONSTRUCTION",
-      "description": "Obras",
-      "street": "Rua Bem-Te-Vi",
-      "direction": "ONE_DIRECTION",
-      "polyline": "-23.517155 -46.762018 -23.516496 -46.759357",
       "creationtime": "2026-11-04T12:12:08-03:00",
+      "description": "Obras",
+      "direction": "ONE_DIRECTION",
+      "endtime": "2026-11-05T00:00:00-03:00",
+      "id": "1793805128932",
+      "polyline": "-23.517155 -46.762018 -23.516496 -46.759357",
       "starttime": "2026-11-04T12:10:00-03:00",
-      "endtime": "2026-11-05T00:00:00-03:00"
+      "street": "Rua Bem-Te-Vi",
+      "type": "CONSTRUCTION"
     },
     {
-      "id": "1793805156123",
-      "type": "CONSTRUCTION",
+      "creationtime": "2026-11-04T12:12:36-03:00",
       "description": "Obras na via",
+      "direction": "ONE_DIRECTION",
+      "endtime": "2026-11-05T00:00:00-03:00",
+      "id": "1793805156123",
+      "polyline": "-23.517145 -46.761975 -23.516476 -46.759325",
+      "starttime": "2026-11-04T12:10:00-03:00",
+      "street": "Rua Bem-Te-Vi",
+      "type": "CONSTRUCTION"
+    },
+    {
+      "id": "1793805468391",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "description": "Interdição - Obras ",
       "street": "Rua Bem-Te-Vi",
       "direction": "ONE_DIRECTION",
-      "polyline": "-23.517145 -46.761975 -23.516476 -46.759325",
-      "creationtime": "2026-11-04T12:12:36-03:00",
-      "starttime": "2026-11-04T12:10:00-03:00",
+      "polyline": "-23.517155 -46.761996 -23.516427 -46.759303",
+      "creationtime": "2026-11-04T12:17:48-03:00",
+      "starttime": "2026-11-04T12:17:00-03:00",
       "endtime": "2026-11-05T00:00:00-03:00"
     }
   ]
