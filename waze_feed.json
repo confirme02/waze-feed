@@ -1,15 +1,15 @@
 {
   "incidents": [
     {
-      "id": "1794921232226",
-      "type": "CONSTRUCTION",
+      "creationtime": "2026-11-17T10:17:34-03:00",
       "description": "Obra emergencial",
-      "street": "Rua Bezerra de Menezes",
       "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-11-25T10:13:00-03:00",
+      "id": "1794921232226",
       "polyline": "-23.551473 -46.772040 -23.551149 -46.771622",
-      "creationtime": "2026-11-17T10:13:52-03:00",
       "starttime": "2026-11-17T10:13:00-03:00",
-      "endtime": "2026-11-25T10:13:00-03:00"
+      "street": "Rua Bezerra de Menezes",
+      "type": "ROAD_CLOSED"
     }
   ]
 }
