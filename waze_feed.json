@@ -1,16 +1,15 @@
 {
   "incidents": [
     {
-      "id": "1794740518243",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_EVENT",
-      "description": "EVENTO",
-      "street": "Rua Anastácia Jachimov",
+      "id": "1794921232226",
+      "type": "CONSTRUCTION",
+      "description": "Obra emergencial",
+      "street": "Rua Bezerra de Menezes",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.518373 -46.772017 -23.519406 -46.771786",
-      "creationtime": "2026-11-15T08:01:58-03:00",
-      "starttime": "2026-11-15T08:05:00-03:00",
-      "endtime": "2026-11-15T14:08:00-03:00"
+      "polyline": "-23.551473 -46.772040 -23.551149 -46.771622",
+      "creationtime": "2026-11-17T10:13:52-03:00",
+      "starttime": "2026-11-17T10:13:00-03:00",
+      "endtime": "2026-11-25T10:13:00-03:00"
     }
   ]
 }
