@@ -24,16 +24,16 @@
       "type": "ROAD_CLOSED"
     },
     {
-      "id": "1795529582485",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_EVENT",
+      "creationtime": "2026-11-24T12:34:21-03:00",
       "description": "MONTAGEM DO PALCO",
-      "street": "Rua Aurora Soares Barbosa",
       "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.539930 -46.772560 -23.539935 -46.772668",
-      "creationtime": "2026-11-24T11:20:12-03:00",
+      "endtime": "2026-11-24T23:59:00-03:00",
+      "id": "1795529582485",
+      "polyline": "-23.539950 -46.772711 -23.539930 -46.772603 -23.539940 -46.772550 -23.539970 -46.772518",
       "starttime": "2026-11-24T11:12:00-03:00",
-      "endtime": "2026-11-24T23:59:00-03:00"
+      "street": "Avenida Lázaro de Mello Brandão",
+      "subtype": "ROAD_CLOSED_EVENT",
+      "type": "ROAD_CLOSED"
     }
   ]
 }
