@@ -10,6 +10,18 @@
       "starttime": "2026-11-17T10:13:00-03:00",
       "street": "Rua Bezerra de Menezes",
       "type": "ROAD_CLOSED"
+    },
+    {
+      "id": "1795527240594",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "description": "OBRA",
+      "street": "Rua Tomás Spitaletti",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.531732 -46.774121 -23.531894 -46.774099 -23.532135 -46.774072 -23.532342 -46.774056 -23.532475 -46.774040 -23.532661 -46.774013 -23.532873 -46.774008 -23.533006 -46.773992 -23.533139 -46.773981 -23.533266 -46.773960",
+      "creationtime": "2026-11-24T10:34:00-03:00",
+      "starttime": "2026-11-24T10:33:00-03:00",
+      "endtime": "2026-11-24T17:00:00-03:00"
     }
   ]
 }
