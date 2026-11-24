@@ -12,16 +12,28 @@
       "type": "ROAD_CLOSED"
     },
     {
-      "id": "1795527240594",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_CONSTRUCTION",
-      "description": "OBRA",
-      "street": "Rua Tomás Spitaletti",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.531732 -46.774121 -23.531894 -46.774099 -23.532135 -46.774072 -23.532342 -46.774056 -23.532475 -46.774040 -23.532661 -46.774013 -23.532873 -46.774008 -23.533006 -46.773992 -23.533139 -46.773981 -23.533266 -46.773960",
       "creationtime": "2026-11-24T10:34:00-03:00",
+      "description": "OBRA",
+      "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-11-24T17:00:00-03:00",
+      "id": "1795527240594",
+      "polyline": "-23.531732 -46.774121 -23.531894 -46.774099 -23.532135 -46.774072 -23.532342 -46.774056 -23.532475 -46.774040 -23.532661 -46.774013 -23.532873 -46.774008 -23.533006 -46.773992 -23.533139 -46.773981 -23.533266 -46.773960",
       "starttime": "2026-11-24T10:33:00-03:00",
-      "endtime": "2026-11-24T17:00:00-03:00"
+      "street": "Rua Tomás Spitaletti",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "type": "ROAD_CLOSED"
+    },
+    {
+      "id": "1795529582485",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_EVENT",
+      "description": "MONTAGEM DO PALCO",
+      "street": "Rua Aurora Soares Barbosa",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.539950 -46.772511 -23.539926 -46.772603 -23.539930 -46.772656 -23.539965 -46.772704",
+      "creationtime": "2026-11-24T11:13:02-03:00",
+      "starttime": "2026-11-24T11:12:00-03:00",
+      "endtime": "2026-11-24T23:59:00-03:00"
     }
   ]
 }
