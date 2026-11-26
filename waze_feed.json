@@ -1,27 +1,16 @@
 {
   "incidents": [
     {
-      "creationtime": "2026-11-17T10:17:34-03:00",
-      "description": "Obra emergencial",
-      "direction": "BOTH_DIRECTIONS",
-      "endtime": "2026-11-25T10:13:00-03:00",
-      "id": "1794921232226",
-      "polyline": "-23.551473 -46.772040 -23.551149 -46.771622",
-      "starttime": "2026-11-17T10:13:00-03:00",
-      "street": "Rua Bezerra de Menezes",
-      "type": "ROAD_CLOSED"
-    },
-    {
-      "creationtime": "2026-11-24T17:44:09-03:00",
-      "description": "MONTAGEM DO PALCO",
-      "direction": "BOTH_DIRECTIONS",
-      "endtime": "2026-11-25T08:00:00-03:00",
-      "id": "1795529582485",
-      "polyline": "-23.539950 -46.772711 -23.539930 -46.772603 -23.539940 -46.772550 -23.539970 -46.772518",
-      "starttime": "2026-11-24T11:12:00-03:00",
-      "street": "Avenida Lázaro de Mello Brandão",
+      "id": "1795701282236",
+      "type": "ROAD_CLOSED",
       "subtype": "ROAD_CLOSED_EVENT",
-      "type": "ROAD_CLOSED"
+      "description": "EVENTO NATAL",
+      "street": "Rua Aurora Soares Barbosa",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.539960 -46.772517 -23.539911 -46.772635 -23.539980 -46.772721",
+      "creationtime": "2026-11-26T10:54:42-03:00",
+      "starttime": "2026-11-26T10:54:00-03:00",
+      "endtime": "2026-12-31T10:54:00-03:00"
     }
   ]
 }
