@@ -1,16 +1,28 @@
 {
   "incidents": [
     {
-      "id": "1795701282236",
-      "type": "ROAD_CLOSED",
-      "subtype": "ROAD_CLOSED_EVENT",
-      "description": "EVENTO NATAL",
-      "street": "Rua Aurora Soares Barbosa",
-      "direction": "BOTH_DIRECTIONS",
-      "polyline": "-23.539960 -46.772517 -23.539911 -46.772635 -23.539980 -46.772721",
       "creationtime": "2026-11-26T10:54:42-03:00",
+      "description": "EVENTO NATAL",
+      "direction": "BOTH_DIRECTIONS",
+      "endtime": "2026-12-31T10:54:00-03:00",
+      "id": "1795701282236",
+      "polyline": "-23.539960 -46.772517 -23.539911 -46.772635 -23.539980 -46.772721",
       "starttime": "2026-11-26T10:54:00-03:00",
-      "endtime": "2026-12-31T10:54:00-03:00"
+      "street": "Rua Aurora Soares Barbosa",
+      "subtype": "ROAD_CLOSED_EVENT",
+      "type": "ROAD_CLOSED"
+    },
+    {
+      "id": "1795718945884",
+      "type": "ROAD_CLOSED",
+      "subtype": "ROAD_CLOSED_CONSTRUCTION",
+      "description": "OBRA",
+      "street": "Rua São Silvestre",
+      "direction": "BOTH_DIRECTIONS",
+      "polyline": "-23.488114 -46.777436 -23.488227 -46.777398 -23.488360 -46.777388 -23.488488 -46.777371 -23.488636 -46.777345",
+      "creationtime": "2026-11-26T15:49:05-03:00",
+      "starttime": "2026-11-26T15:48:00-03:00",
+      "endtime": "2026-11-26T15:54:00-03:00"
     }
   ]
 }
